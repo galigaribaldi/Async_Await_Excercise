@@ -14,6 +14,7 @@
 		667C8BF0270C04B70086FDCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667C8BEF270C04B70086FDCB /* Assets.xcassets */; };
 		667C8BF3270C04B70086FDCB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 667C8BF1270C04B70086FDCB /* LaunchScreen.storyboard */; };
 		667C8BFE270C14310086FDCB /* Structures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667C8BFD270C14310086FDCB /* Structures.swift */; };
+		667C8C01270C15B40086FDCB /* DownloadImageMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667C8C00270C15B40086FDCB /* DownloadImageMetadata.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		667C8BF2270C04B70086FDCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		667C8BF4270C04B70086FDCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		667C8BFD270C14310086FDCB /* Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structures.swift; sourceTree = "<group>"; };
+		667C8C00270C15B40086FDCB /* DownloadImageMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageMetadata.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		667C8BE5270C04B30086FDCB /* AsyncAwaitExcercise */ = {
 			isa = PBXGroup;
 			children = (
+				667C8BFF270C15910086FDCB /* Functions */,
 				667C8BFA270C122C0086FDCB /* Models */,
 				667C8BE6270C04B30086FDCB /* AppDelegate.swift */,
 				667C8BE8270C04B30086FDCB /* SceneDelegate.swift */,
@@ -76,6 +79,14 @@
 				667C8BFD270C14310086FDCB /* Structures.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		667C8BFF270C15910086FDCB /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				667C8C00270C15B40086FDCB /* DownloadImageMetadata.swift */,
+			);
+			path = Functions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +162,7 @@
 			files = (
 				667C8BEB270C04B30086FDCB /* ViewController.swift in Sources */,
 				667C8BE7270C04B30086FDCB /* AppDelegate.swift in Sources */,
+				667C8C01270C15B40086FDCB /* DownloadImageMetadata.swift in Sources */,
 				667C8BE9270C04B30086FDCB /* SceneDelegate.swift in Sources */,
 				667C8BFE270C14310086FDCB /* Structures.swift in Sources */,
 			);
