@@ -4,7 +4,7 @@ This Repository is from to the third Project about IO's development Degree.
 
 ## **What is it?** 
 
-This is a implementation about Async Await Excercise, this theme was discussed in class with profesor Norberto, and he was leave homework for the students, **Do a implementation with DispatchQueue**. After time this is my implementation
+This is a implementation about Async Await Excercise, this subject was discussed in class with professor Norberto, he left homework to do, **Do a implementation with DispatchQueue**. After time this is my implementation
 
 **Project Screen**
 
@@ -16,7 +16,7 @@ This is a implementation about Async Await Excercise, this theme was discussed i
 
 ## Where is the original Code?
 
-The original code is property to *Andy Ibañez*, you can found in the some links:
+The original code is property to *Andy Ibañez*, you can found in this links:
 
 - [Web Site](https://www.andyibanez.com)
 - [Github](https://github.com/AndyIbanez)
@@ -26,7 +26,7 @@ The original code is property to *Andy Ibañez*, you can found in the some links
 
 ## Who I am?
 
-My name is:  Hernán Galileo Cabrera Garibaldi, and you contact me in this Social networks:
+My name is:  Hernán Galileo Cabrera Garibaldi, and you can find me in this Social networks:
 
 - Email: galigaribaldi0@gmail.com
 - Github: https://github.com/galigaribaldi
